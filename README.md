@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="width: 200px;">
-<a href="https://github.com/rau4500/github-readme-stats">
+<a href="https://github.com/rau4500/github-readme-stats" style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul4500&langs_count=8" alt="Top Langs" />
 </a>
 </div>
