@@ -4,21 +4,21 @@
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-<!-- - Atualmente estou trabalhando em **[Nome do Projeto]**
-- Atualmente estou aprendendo **[tecnologia ou ferramenta]**
-- Procuro colaborar em **projetos open source**
-- Procuro ajuda com **[algo que você quer aprender ou desenvolver]**
-- Me pergunte sobre **[suas especialidades]**
+<!-- - Atualmente estou trabalhando em **[Nome do Projeto]**-->
+- Atualmente estou aprendendo **Python, Java e React**
+<!-- - Procuro colaborar em **projetos open source** -->
+<!-- - Procuro ajuda com **[algo que você quer aprender ou desenvolver]** -->
+<!-- - Me pergunte sobre **[suas especialidades]** -->
 - Como me encontrar: **[email@email.com]**
-- Curiosidade: **[algo divertido ou único sobre você]** -->
+<!-- - Curiosidade: **[algo divertido ou único sobre você]** -->
 
 ---
 
 ### Tecnologias e Ferramentas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <!-- Adicione mais ícones conforme necessário -->
 </p>
