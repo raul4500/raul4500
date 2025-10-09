@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=RAUL FERREIRA BORGES&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub%20Profile&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=RAUL%20FERREIRA%20BORGES&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub%20Profile&descAlignY=60&descAlign=50"/>
 </p>
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
