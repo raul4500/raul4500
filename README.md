@@ -4,46 +4,32 @@
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🔭 Atualmente estou trabalhando em **[Nome do Projeto]**
-- 🌱 Atualmente estou aprendendo **[tecnologia ou ferramenta]**
-- 👯 Procuro colaborar em **projetos open source**
-- 🤝 Procuro ajuda com **[algo que você quer aprender ou desenvolver]**
-- 💬 Me pergunte sobre **[suas especialidades]**
-- 📫 Como me encontrar: **[email@email.com]**
-- ⚡ Curiosidade: **[algo divertido ou único sobre você]**
+<!-- - Atualmente estou trabalhando em **[Nome do Projeto]**
+- Atualmente estou aprendendo **[tecnologia ou ferramenta]**
+- Procuro colaborar em **projetos open source**
+- Procuro ajuda com **[algo que você quer aprender ou desenvolver]**
+- Me pergunte sobre **[suas especialidades]**
+- Como me encontrar: **[email@email.com]**
+- Curiosidade: **[algo divertido ou único sobre você]** -->
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <!-- Adicione mais ícones conforme necessário -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/raul4500/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>JavaScript</td>
-    <td>Java</td>
-  </tr>
-</table>
-
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raul4500&show_icons=true&theme=radical" />
@@ -52,7 +38,7 @@
 
 ---
 
-### 🌐 Contato
+### Contato
 
 <p>
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
