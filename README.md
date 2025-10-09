@@ -30,6 +30,19 @@
   <img src="https://github.com/raul4500/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>JavaScript</td>
+    <td>Java</td>
+  </tr>
+</table>
+
 ### 📈 GitHub Stats
 
 <p align="center">
