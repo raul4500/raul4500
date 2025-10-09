@@ -1,5 +1,9 @@
-<h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia e inovação</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]!&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Bem-vindo%20ao%20meu%20GitHub%20Profile&descAlignY=60&descAlign=50"/>
+</p>
+
+<h1 align="center">RAUL FERREIRA BORGES</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 - 🔭 Atualmente estou trabalhando em **[Nome do Projeto]**
 - 🌱 Atualmente estou aprendendo **[tecnologia ou ferramenta]**
@@ -23,11 +27,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/raul4500/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raul4500&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul4500&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -42,4 +50,8 @@
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Adicione outros links como site pessoal, Twitter, etc. -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 </p>
