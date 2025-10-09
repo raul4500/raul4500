@@ -4,6 +4,14 @@
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
+### GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raul4500&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul4500&layout=compact&theme=radical"/>
+</p>
+
+
 <!-- - Atualmente estou trabalhando em **[Nome do Projeto]**-->
 - Atualmente estou aprendendo **Python, Java e React**
 <!-- - Procuro colaborar em **projetos open source** -->
@@ -26,15 +34,12 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/raul4500/raul4500/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raul4500&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul4500&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true" alt="activity graph"/>
+</div>
 
 ---
 
