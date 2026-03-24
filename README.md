@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">Desenvolvedor Full Stack</h3>
+<h4 align="center">Estudante do IFSP - curso de DS</h4>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raul4500&show_icons=true&theme=radical" />
