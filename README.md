@@ -12,7 +12,7 @@
 
 
 <!-- - Atualmente estou trabalhando em **[Nome do Projeto]**-->
-- Atualmente estou aprendendo **Python, Java e React**
+- Atualmente estou aprendendo **Java e PHP**
 <!-- - Procuro colaborar em **projetos open source** -->
 <!-- - Procuro ajuda com **[algo que você quer aprender ou desenvolver]** -->
 <!-- - Me pergunte sobre **[suas especialidades]** -->
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/php-original.svg" width="40" />
   <!-- Adicione mais ícones conforme necessário -->
 </p>
 
