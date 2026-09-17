@@ -45,7 +45,7 @@ Objetivo: atuar como **Full-Stack / Backend Developer**
 <img src="https://skillicons.dev/icons?i=latex" />
 
 </div>
-
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raul4500?theme=dark&font=Pontano%20Sans&ext=heatmap)
 
 <p align="center" style="margin:0px">
