@@ -46,6 +46,8 @@ Objetivo: atuar como **Full-Stack / Backend Developer**
 
 </div>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/raul4500?theme=dark&font=Pontano%20Sans&ext=heatmap)
+
 <p align="center" style="margin:0px">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" style="width: 100%"/>
 </p>
