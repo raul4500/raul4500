@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou Raul Ferreira Borges, desenvolvedor Full Stack e estudante de Desenvolvimento de Sistemas no IFSP.
 
@@ -42,7 +42,7 @@ Minha experiência envolve principalmente:
 
 ---
 
-## 🌐 Meu Portfólio
+## Meu Portfólio
 
 <p align="center">
   <a href="https://raul-borges-portfolio.vercel.app">
@@ -61,7 +61,7 @@ No meu portfólio você encontra uma apresentação mais completa da minha traje
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,7 +81,7 @@ No meu portfólio você encontra uma apresentação mais completa da minha traje
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="170" src="https://leetcard.jacoblin.cool/raul4500?theme=dark&font=Pontano%20Sans&ext=heatmap" />
@@ -89,7 +89,7 @@ No meu portfólio você encontra uma apresentação mais completa da minha traje
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://raul-borges-portfolio.vercel.app">
